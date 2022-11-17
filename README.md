@@ -20,7 +20,7 @@ I’ve been working in the industry since 2020, when I graduated from web develo
 - SCSS
 - CSS3
 
-### State Management
+### State management
 - Recoil
 - Apollo Client
 
@@ -30,12 +30,12 @@ I’ve been working in the industry since 2020, when I graduated from web develo
 - MongoDB
 - Firebase
 
-### Server-Side
+### Server-side
 - Node.js
 - Express
 - Apollo Server
 
-### Content Management
+### Content management
 - Strapi
 - WordPress
 - Shopify
