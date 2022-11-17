@@ -1,39 +1,60 @@
 # Hi, I'm Lucas! I'm a front-end developer based in Toronto, Canada.
 
-I specialize in transforming designs, prototypes, and ideas into delightful React interfaces. I've been working as a developer since 2020, when I graduated from web development bootcamp. You can read more about my background and my journey into tech [here](https://lucascodepro.medium.com/im-a-web-developer-now-from-decoding-human-behaviour-to-building-the-modern-internet-b7c36a34dfd9).
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/57023164/202329180-cfe95f59-81c8-4879-a513-24a00a2a4b8d.jpg)
 
-## Languages
-- HTML, CSS, JavaScript, TypeScript, PHP, Liquid
+I specialize in transforming designs, prototypes, and ideas into delightful user interfaces.
 
-## JavaScript libraries & frameworks
-- React, Gatsby, Node.js, Express, Recoil, jQuery
+I’ve been working in the industry since 2020, when I graduated from web development bootcamp at Juno College. The logical side of my brain loves solving tricky coding problems and software architecture challenges, while the creative side of my brain loves converting designs into beautiful and functional web pages that people use every day. I’m also passionate about making the web a more accessible place, one page at a time.
 
-## Styling
-- CSS3, MUI, Tailwind, SCSS, Styled Components
+## Tech stack
 
-## Data
-- MongoDB, Firebase, REST, GraphQL
+### JavaScript
+- Create React App + TypeScript
+- Gatsby + TypeScript
+- Vanilla JavaScript (ES6+)
 
-## Testing
-- React Testing Library, Cypress, Jest, TestCafe
+### Styling
+- Tailwind
+- MUI
+- Styled Components
+- SCSS
+- CSS3
 
-## Other libraries
-- Highcharts, deck.gl, Lodash
+### State Management
+- Recoil
+- Apollo Client
 
-## Version control
-- Git, GitHub, GitLab
+### Data
+- REST
+- GraphQL
+- MongoDB
+- Firebase
 
-## Content management
-- WordPress, Shopify, Strapi
+### Server-Side
+- Node.js
+- Express
+- Apollo Server
 
-## Documentation
-- Confluence, Notion, Storybook, Slab, JSDocs, PropTypes
+### Content Management
+- Strapi
+- WordPress
+- Shopify
 
-## Other tools & technologies
-- VS Code, Command Line, WCAG, Figma, Jira, Shortcut, Mapbox, ESLint, Prettier, SonarCloud, Docker
+### Testing
+- React Testing Library
+- Cypress
+- Jest
+- TestCafe
+
+### Other tech I’ve worked with
+- jQuery
+- Storybook
+- Figma
+- Docker
+- PHP
+- Liquid
 
 ## Links
 - [Portfolio](https://lucassilbernagel.com/)
 - [LinkedIn](https://www.linkedin.com/in/lucassilbernagel/)
 - [Twitter](https://twitter.com/LucasCodePro)
-- [Medium](https://medium.com/@LucasCodePro)
