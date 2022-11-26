@@ -10,6 +10,7 @@ I’ve been working in the industry since 2020, when I graduated from web develo
 - Create React App + TypeScript
 - Gatsby + TypeScript
 - Vanilla JavaScript (ES6+)
+- jQuery
 
 ### Styling
 - Tailwind
@@ -45,7 +46,6 @@ I’ve been working in the industry since 2020, when I graduated from web develo
 - TestCafe
 
 ### Other tech I’ve worked with
-- jQuery
 - Storybook
 - Figma
 - Docker
