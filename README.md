@@ -7,9 +7,10 @@ I’ve been working in the industry since 2020, when I graduated from web develo
 ## Tech stack
 
 ### JavaScript
-- Create React App + TypeScript
-- Gatsby + TypeScript
-- Vanilla JavaScript (ES6+)
+- ES6+
+- TypeScript
+- Create React App
+- Gatsby
 - jQuery
 
 ### Styling
