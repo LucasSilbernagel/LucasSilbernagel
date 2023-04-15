@@ -9,7 +9,7 @@ I’ve been working in the industry since 2020, when I graduated from web develo
 ### JavaScript
 - ES6+
 - TypeScript
-- Create React App
+- React
 - Gatsby
 - jQuery
 
