@@ -11,6 +11,7 @@ I’ve been working in the industry since 2020, when I graduated from web develo
 - TypeScript
 - React
 - Gatsby
+- Next.js
 - jQuery
 
 ### Styling
