@@ -1,6 +1,6 @@
 # Hi, I'm Lucas! I'm a front-end developer based in Toronto, Canada.
 
-I specialize in crafting captivating user interfaces that leave a lasting impact. With a strong focus on accessibility and user-centric design, I bring mockups and ideas to life, creating immersive web pages and apps that seamlessly connect users with digital experiences.
+I specialize in the crafting of user interfaces that truly make a difference. With a strong focus on accessibility and user-centric design, I bring mockups and ideas to life in the form of beautiful web pages and apps that seamlessly connect users with digital experiences.
 
 ## Tech stack
 
