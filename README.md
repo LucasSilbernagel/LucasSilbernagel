@@ -35,9 +35,10 @@ I specialize in the crafting of user interfaces that truly make a difference. Wi
 - Apollo Server
 
 ### Content management
+-Sanity
 - Strapi
-- WordPress
 - Shopify
+- WordPress
 
 ### Testing
 - React Testing Library
