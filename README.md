@@ -13,15 +13,16 @@ I specialize in the crafting of user interfaces that truly make a difference. Wi
 - jQuery
 
 ### Styling
-- Tailwind
-- MUI
+- Tailwind CSS
+- MUI (Material UI)
 - Styled Components
 - SCSS
 - CSS3
 
 ### State management
-- Recoil
+- Recoil.js
 - Apollo Client
+- React Context
 
 ### Data
 - REST
@@ -29,13 +30,13 @@ I specialize in the crafting of user interfaces that truly make a difference. Wi
 - MongoDB
 - Firebase
 
-### Server-side
+### Back End
 - Node.js
-- Express
+- Express.js
 - Apollo Server
 
 ### Content management
--Sanity
+-Sanity.io
 - Strapi
 - Shopify
 - WordPress
@@ -56,4 +57,4 @@ I specialize in the crafting of user interfaces that truly make a difference. Wi
 ## Links
 - [Portfolio](https://lucassilbernagel.com/)
 - [LinkedIn](https://www.linkedin.com/in/lucassilbernagel/)
-- [Twitter](https://twitter.com/LucasCodePro)
+- [Bluesky](https://bsky.app/profile/lucassilbernagel.com)
