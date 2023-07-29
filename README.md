@@ -36,7 +36,7 @@ I specialize in the crafting of user interfaces that truly make a difference. Wi
 - Apollo Server
 
 ### Content management
--Sanity.io
+- Sanity.io
 - Strapi
 - Shopify
 - WordPress
