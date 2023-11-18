@@ -20,9 +20,10 @@ I specialize in the crafting of user interfaces that truly make a difference. Wi
 - CSS3
 
 ### State management
-- Recoil.js
-- Apollo Client
 - React Context
+- Apollo Client
+- Recoil.js
+- Redux
 
 ### Data
 - REST
@@ -42,12 +43,14 @@ I specialize in the crafting of user interfaces that truly make a difference. Wi
 - WordPress
 
 ### Testing
-- React Testing Library
-- Cypress
 - Jest
+- React Testing Library
+- Playwright
+- Cypress
 - TestCafe
 
 ### Other tech I’ve worked with
+- Progressive Web Apps
 - Storybook
 - Figma
 - Docker
