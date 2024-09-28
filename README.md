@@ -5,7 +5,7 @@ I specialize in front-end development, and I've been working in the industry sin
 ## Tech stack
 
 - As a graduate of a web development bootcamp, I have a strong foundation in modern __HTML__ and __CSS__.
-- I follow industry newsletters to stay at the forefront of modern __JavaScript__, and I make my code type-safe with __TypeScript__.
+- I follow industry newsletters and attend conferences to stay at the forefront of modern __JavaScript__, and I make my code type-safe with __TypeScript__.
 - When it comes to JavaScript libraries, I'm very much a __React__ developer.
   - React frameworks I've worked with include __Gatsby__, __Next.js__, and __Remix__.
   - I manage React state with APIs like __React Context__ and libraries like __Zustand__, __Apollo Client__, __TanStack Query__, __Recoil.js__, and __Redux__.
