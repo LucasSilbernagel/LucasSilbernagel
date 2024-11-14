@@ -13,7 +13,7 @@ I specialize in front-end development, and I've been working in the industry sin
 - I'm comfortable working with data from both __REST__ and __GraphQL__ APIs.
 - While I specialize in front-end development, I've built full-stack applications using technologies like __Node.js__, __Express__, __Apollo Server__, __MongoDB__, and __Firebase__.
 - I have experience organizing and managing web content using __Sanity__, __Strapi__, __Shopify__, and __WordPress__.
-- My preferred software testing frameworks include __Jest__, __React Testing Library__, and __Playwright__.
+- My preferred software testing frameworks include __Jest__, __React Testing Library__, __Vitest__, and __Playwright__.
 
 ## Links
 - [Portfolio](https://lucassilbernagel.com/)
