@@ -9,7 +9,7 @@ I specialize in front-end development, and I've been working in the industry sin
 - When it comes to JavaScript libraries, I'm very much a __React__ developer.
   - React frameworks I've worked with include __Gatsby__, __Next.js__, and __Remix__.
   - I manage React state with APIs like __React Context__ and libraries like __Zustand__, __Apollo Client__, and __TanStack Query__.
-- I enjoy building user interfaces with CSS frameworks like __Tailwind CSS__ and component libraries like __MUI__ and __shadcn_ui__.
+- I enjoy building user interfaces with CSS frameworks like __Tailwind CSS__ and component libraries like __MUI__ and __shadcn/ui__.
 - I'm comfortable working with data from both __REST__ and __GraphQL__ APIs.
 - While I specialize in front-end development, I've built full-stack applications using technologies like __Node.js__, __Express__, __Apollo Server__, __MongoDB__, and __Firebase__.
 - I have experience organizing and managing web content using __Sanity__, __Strapi__, __Shopify__, and __WordPress__.
