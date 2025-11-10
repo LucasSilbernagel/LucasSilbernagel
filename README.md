@@ -1,6 +1,7 @@
-# Hi, I'm Lucas! I'm a software developer based in Toronto, Canada.
+# Hi, I'm Lucas!
 
-I specialize in front-end development, and I've been working in the industry since 2020. I thrive in ambiguous, fast-paced environments, consistently driving rapid iteration and improvement in large-scale codebases. I'm a strong communicator and enjoy partnering with cross-functional teams to accelerate product delivery. My focus is on delivering high-quality, accessible, and performant user experiences, balancing big-picture design thinking with urgent execution.
+I’m a Toronto-based software developer, and I've been specializing in front-end development since 2020. My main passion is crafting accessible, high-performance user experiences. I thrive in a little bit of chaos, where my collaborative and organizational skills really shine. Stakeholders and teammates appreciate my ability to iterate rabidly while maintaining and improving code quality. Beyond my technical work, I really enjoy empowering other developers with detailed documentation, educational presentations, and one-on-one mentoring conversations.
+
 ## Tech stack
 
 - As a graduate of a web development bootcamp, I have a strong foundation in modern __HTML__ and __CSS__.
