@@ -13,9 +13,9 @@ Beyond hands-on code delivery, I place high value on supporting the engineers ar
 | Category  | Technologies |
 | ------------- | ------------- |
 | AI Workflows & Engineering  | Claude Code, BMAD Method, Spec-Driven Development, Context Engineering, Prompt Engineering, GitHub Copilot  |
-| Frontend Architecture & UI  | React, Next.js, TypeScript, JavaScript, HTML/CSS, Tailwind CSS, MUI, shadcn/ui, Gatsby, Remix, Astro  |
+| Frontend Architecture & UI  | React, Next.js, Tanstack Start, TypeScript, JavaScript, HTML/CSS, Tailwind CSS, MUI, shadcn/ui, Gatsby, Remix, Astro  |
 | State & Data Management  | React Context, Zustand, Apollo Client, TanStack Query, REST & GraphQL APIs  |
-| Backend & CMS  | Node.js, Express, Apollo Server, MongoDB, Firebase, Sanity, Strapi, Shopify, WordPress  |
+| Backend & CMS  | Node.js, Express, Apollo Server, MongoDB, Firebase, Sanity, Strapi, PostgreSQL, Drizzle ORM, Shopify, WordPress  |
 | Testing, Observability & CI/CD  | Playwright, Jest, Vitest, React Testing Library, Datadog  |
 
 ## Links
